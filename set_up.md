@@ -10,7 +10,7 @@ nav_order: 2
 	- **Windows: (Powershell)**
     ```
 	cd WindowsClient
-	./LyraClient.exe [IP_address provided]
+	.\LyraClient.exe [IP_address provided]
 	```
   Complete here how to launch on windows
 	- **Linux/Mac:** 
@@ -27,7 +27,7 @@ You can set the graphics and controls options in the game settings.
 
 
 ## Binaries to download
-[**Linux**](assets/LyraLinuxClient.zip)
+[**Linux**](https://filesender.renater.fr/?s=download&token=c721fd29-b0ec-4faf-a44d-b338e59399f2)
 
 **Mac OS (intel/M)**
 
