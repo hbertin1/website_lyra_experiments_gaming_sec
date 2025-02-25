@@ -13,4 +13,4 @@ The goal of this experiment is to validate the online game leveraged for the exp
 
 
 
-Check out the [Get Started](/set_up.md) and [contact](/contact/) sections.
+Check out the [get started](/set_up.md) and [contact](/contact/) pages.

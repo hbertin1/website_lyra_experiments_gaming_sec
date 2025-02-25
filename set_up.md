@@ -1,6 +1,6 @@
 ---
 title: Get Started
-layout: get started
+layout: default
 nav_order: 2
 ---
 ## Launch the game

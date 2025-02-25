@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: contact
+layout: default
 nav_order: 3
 ---
 In you are interested in participating in our experiments or collaborating on our research, please contact us at:
