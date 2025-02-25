@@ -4,9 +4,14 @@ layout: default
 nav_order: 2
 ---
 ## Launch the game
-1. Download the [Binary](download) compliant with your OS
+1. Download the zip file compliant with your OS below.
+2. Unzip the file to get the client binary
 2. Launch the game from its directory
-	- **Windows:** 
+	- **Windows: (Powershell)**
+    ```
+	cd WindowsClient
+	./LyraClient.exe [IP_address provided]
+	```
   Complete here how to launch on windows
 	- **Linux/Mac:** 
 	```
@@ -14,9 +19,11 @@ nav_order: 2
 	./LyraClient.sh [IP_address provided]
 	```
 
+You can set the graphics and controls options in the game settings.
 
-Please find the binaries to download below:
-**Linux**
+
+## Binaries to download
+[**Linux**](assets/LyraLinuxClient.zip)
 
 **Mac OS (intel/M)**
 
