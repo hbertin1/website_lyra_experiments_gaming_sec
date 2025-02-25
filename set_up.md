@@ -22,7 +22,7 @@ nav_order: 2
 You can set the graphics and controls options in the game settings.
 
 ## After the experiment
-1. Open the file under the path ```LyraClient/results/feedback.txt```
+1. Open and fill the file at the path ```LyraClient/results/feedback.txt```
 2. Send us the whole content of the results folder (```feedback.txt``` and ```ping.txt```)
 
 
