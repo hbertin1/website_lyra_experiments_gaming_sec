@@ -45,7 +45,7 @@ nav_order: 2
 ## After the experiment
 1. Open and fill the feedback document that can be downloaded [here](https://drive.google.com/file/d/1aa254_mNkwVABy6zLVC_GCfrCdClEpCc/view?usp=sharing)
 2. Retrieve the content of the folder ```LyraClient/results/``` (you can zip the folder if needed)
-3. Send us both the result folder (it can be zipped if needed) and the feedback document. You can use the the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact/). 
+3. Send us both the result folder (it can be zipped if needed) and the feedback document. You can use the the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact.md). 
 
 
 <!-- ## Binaries to download

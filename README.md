@@ -1,3 +1,9 @@
+website used for the resources related to the gaming security experiments.
+Can be visited online at: https://hbertin1.github.io/website_lyra_experiments_gaming_sec/
+
+
+Template README below
+----------
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
