@@ -13,4 +13,4 @@ The goal of this phase is to validate the online game used for the experimentati
 
 
 
-Check out the [get started](set_up.md) and [contact](contact.md) pages.
+Check out the [get started](/set_up.md) and [contact](/contact.md) pages.
