@@ -5,7 +5,7 @@ nav_order: 2
 ---
 ## Launch the game
 
-Start by downloading  the zip file compliant with your OS in the drive folder [here](https://drive.google.com/drive/u/2/folders/1W-ANJfaK9jgomkra-b9O7DIh3U86b4DO).
+1. Start by downloading  the zip file compliant with your OS in the drive folder [here](https://drive.google.com/drive/u/2/folders/1W-ANJfaK9jgomkra-b9O7DIh3U86b4DO).
 2. Unzip the file
 
 
@@ -45,7 +45,7 @@ Start by downloading  the zip file compliant with your OS in the drive folder [h
 ## After the experiment
 1. Open and fill the feedback document that can be downloaded [here]() *add the link* 
 2. Retrieve the content of the folder ```LyraClient/results/``` (you can zip the folder if needed)
-3. Send us both the result folder (it can be zipped if needed) and the feedback document. You can use the the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact). 
+3. Send us both the result folder (it can be zipped if needed) and the feedback document. You can use the the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact/). 
 
 
 <!-- ## Binaries to download
