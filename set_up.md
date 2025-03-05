@@ -27,12 +27,12 @@ nav_order: 2
 	./LYRALAUNCHER.command
 	```
 2. The following error will be raised. This is related to the OSX app bundle not being signed by a verified developer (with an apple developer licence).
-![Error](error.png)
+![Error](images/error.png)
 
 3. To bypass this, open the Settings and go to the Privacy & Security section.
 4. Click on the button **Open Anyway** below the following error message should be raised: "LyraGame was blocked from use because it is not from an identified developer". 
 
-![Open Anyway](openanyway.png)
+![Open Anyway](images/openanyway.png)
 
 5. **Quit the game which is currently launching** because this will open the game **BUT** won't connect it to the server. 
 6. Run again `./LYRALAUNCHER.command `
