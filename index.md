@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+youtubeId: 3hYWITmHs2Q
 ---
 
 # Gaming Security Experiments
@@ -19,15 +20,7 @@ The objective is to collect traces of cheats usage under realistic gameplay cond
 The game is a modified version of the Lyra Starter Game template from Epic Games / Unreal Engine that includes the execution of cheats as "super-powers" for experimental purposes.  
 A video demonstration is available [here](https://youtu.be/3hYWITmHs2Q).
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe 
-    src="https://youtu.be/3hYWITmHs2Q"
-    title="Gameplay Video"
-    frameborder="0"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 
