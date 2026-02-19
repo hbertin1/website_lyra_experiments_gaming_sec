@@ -16,7 +16,7 @@ The objective is to collect traces of cheats usage under realistic gameplay cond
 
 ## The Game
 
-The game is a modified version of the Lyra Starter Game template from Epic Games / Unreal Engine. 
+The game is a modified version of the Lyra Starter Game template from Epic Games / Unreal Engine that includes the execution of cheats as "super-powers" for experimental purposes.  
 A video demonstration is available [here](https://youtu.be/3hYWITmHs2Q).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
@@ -29,4 +29,6 @@ A video demonstration is available [here](https://youtu.be/3hYWITmHs2Q).
   </iframe>
 </div>
 
-Check out the [get started](/set_up/) and [contact](/contact.md) pages.
+
+
+The installation guidelines are detailed at [get started](/set_up/) and the gameplay is described in [Gameplay Description](/gameplay.md) pages.

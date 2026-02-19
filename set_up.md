@@ -6,7 +6,7 @@ nav_order: 2
 # Get Started
 
 ## Installation Guidelines - Windows
-1. Download the zip file containing the game packaged.
+1. Download the zip file containing the game packaged [here](https://filesender.renater.fr/?s=download&token=fcf2564a-097f-4758-bfa7-038398ea42c8).
 2. Unzip the file and open the `Windows` folder.
 3. Launch the game by executing `LyraGame.exe`
 
@@ -23,7 +23,7 @@ To be updated soon...
 ## After the experiment
 1. Open and fill the feedback document [here](https://docs.google.com/forms/d/e/1FAIpQLSdoZZC3ZT3Ewh-cccVrXj3EtGGTM2CYL6U2JvzhnYbg7UDBxQ/viewform?usp=publish-editor)
 2. Retrieve the content of the folder ```Windows/LyraStarterGame/Saved/``` (you can zip the folder)
-3. Send us by [email](hugo.bertin@irisa.fr) the Saved folder
+3. Send us by [email](mailtto:hugo.bertin@irisa.fr) the Saved folder
 
 
 <!--. You can use the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact.md). -->
