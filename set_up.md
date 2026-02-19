@@ -26,6 +26,17 @@ To be updated soon...
 3. Send us by [email](mailtto:hugo.bertin@irisa.fr) the Saved folder
 
 
+## System Requirements:
+Recommended:
+    - 64-bit operating system and processor required
+    - Operating System: Windows 11
+    - Processor: Intel Core i5-9400F 
+    - Memory: 16 GB RAM
+    - Graphics: GTX 1650 4 GB
+    - DirectX: Version 12
+    - Storage: 10 GB available disk space
+
+
 <!--. You can use the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact.md). -->
 
 
