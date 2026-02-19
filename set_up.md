@@ -6,7 +6,7 @@ nav_order: 2
 # Get Started
 
 ## Installation Guidelines - Windows
-1. Download the zip file containing the game packaged [here](https://filesender.renater.fr/?s=download&token=fcf2564a-097f-4758-bfa7-038398ea42c8).
+1. Download the zip file containing the game packaged [here](https://filesender.renater.fr/?s=download&token=c72eb9ed-b051-4260-96c6-df735160b9ae).
 2. Unzip the file and open the `Windows` folder.
 3. Launch the game by executing `LyraGame.exe`
 
