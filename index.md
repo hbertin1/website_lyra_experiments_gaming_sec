@@ -17,6 +17,7 @@ The objective is to collect traces of cheats usage under realistic gameplay cond
 ## The Game
 
 The game is a modified version of the Lyra Starter Game template from Epic Games / Unreal Engine. 
+A video demonstration is available [here](https://youtu.be/3hYWITmHs2Q).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe 

@@ -15,15 +15,18 @@ nav_order: 2
 
 To be updated soon...
 
-## Playing instructions
+## Play instructions
 
 - The graphics option can be set in the setting menu (pause), if the game is laggy it is recommended to reduce the graphics quality.
 - The control options can be set in the game settings (pause menu).
 
 ## After the experiment
-1. Open and fill the feedback document [here](https://raw.githubusercontent.com/hbertin1/website_lyra_experiments_gaming_sec/tree/main/assets/form.md)
-2. Retrieve the content of the folder ```LyraClient/results/``` (you can zip the folder if needed)
-3. Send us both the result folder (it can be zipped if needed) and the feedback document. You can use the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact.md). 
+1. Open and fill the feedback document [here](https://docs.google.com/forms/d/e/1FAIpQLSdoZZC3ZT3Ewh-cccVrXj3EtGGTM2CYL6U2JvzhnYbg7UDBxQ/viewform?usp=publish-editor)
+2. Retrieve the content of the folder ```Windows/LyraStarterGame/Saved/``` (you can zip the folder)
+3. Send us by [email](hugo.bertin@irisa.fr) the Saved folder
+
+
+<!--. You can use the [ResultsUpload folder](https://drive.google.com/drive/u/2/folders/1bKCfW1ik9K8Q6HEZWjZ4bd-QnV9Vq-ST) or by [email](/contact.md). -->
 
 
 <!-- ## Launch the game
