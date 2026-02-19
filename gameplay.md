@@ -2,6 +2,7 @@
 title: Gameplay Description
 layout: default
 nav_order: 3
+youtubeId: aahZulqsmoI
 ---
 
 # Gameplay Description 
@@ -35,4 +36,4 @@ The other cheats are powerups that can be collected on the map at pick-up locati
 A video detailing the effects of the cheats can be found [here](https://youtu.be/aahZulqsmoI). 
 
 
-{% include youtubePlayer.html id=aahZulqsmoI %}
+{% include youtubePlayer.html id=page.youtubeId %}
